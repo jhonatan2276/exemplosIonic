@@ -1,0 +1,7 @@
+{
+  "name": "unidavi-service",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

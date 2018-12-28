@@ -1,0 +1,7 @@
+{
+  "name": "unidavi-news",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

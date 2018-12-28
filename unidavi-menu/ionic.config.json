@@ -1,0 +1,7 @@
+{
+  "name": "unidavi-menu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

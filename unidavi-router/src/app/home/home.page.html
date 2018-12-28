@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Home</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  The world is your oyster.
+  <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs">docs</a> will be your guide.</p>
+
+  <!-- <ion-button href="/turma">Texto do botao</ion-button> -->
+
+  <ion-button [routerLink]="['/product/123']">Go to Product 123</ion-button>
+
+  <ion-button (click)="goToTurmaPage()">Texto com click</ion-button>
+</ion-content>

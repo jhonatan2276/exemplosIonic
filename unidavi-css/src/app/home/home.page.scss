@@ -1,0 +1,23 @@
+// .toolbar-background {
+//     background: #000;
+// }
+
+// .toolbar-background {
+//     background: #000 !important;
+// }
+
+// ion-toolbar {
+//     --ion-color-primary: #000;
+// }
+
+// ion-header {
+//     --ion-color-primary: #000;
+// }
+
+// ion-content {
+//     --ion-color-primary: #000;
+// }
+
+ion-content {
+    --ion-color-primary: var(--meuvar);
+}
